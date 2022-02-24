@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Bomber",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/pr1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "T-shirt",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/pr2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Coat",
+          "price": 20.99,
+          "image": { "fields": { "file": { "url": "./images/p3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Pants",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./images/p4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Singlet",
+          "price": 5.99,
+          "image": { "fields": { "file": { "url": "./images/p5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Dress",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/p6.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "T-shirt",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/p7.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Jeans",
+          "price": 15.99,
+          "image": { "fields": { "file": { "url": "./images/p8.jpg" } } }
+        }
+      }
+    ]
+  }
